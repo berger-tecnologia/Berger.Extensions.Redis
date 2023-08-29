@@ -1,1 +1,1 @@
-# Berger.Global.Redis
+# Berger.Extensions.Redis
